@@ -11,3 +11,18 @@ before importing it back into Illustrator to avoid import errors.
 Script is public and use of it is at your own risk.
 This contributor does not take any responsibility for any unwanted or unforseen results conected to the
 use of this script. Feel free to tweak it or make your own version of it.
+
+Place the file in your Adobe Illustrator Scripts folder.
+Usually "C:\Program Files\Adobe\Adobe Illustrator 2020\Presets\en_US\Scripts"
+
+Script Explanation
+JSON Compatibility: Adds JSON support if unavailable.
+
+Export Functionality:
+Extracts text content from all text frames.
+Encodes special characters and writes a UTF-8 JSON file.
+
+Import Functionality:
+Reads a JSON file and decodes text, applying it back to the document's text frames.
+Handles parsing errors (unterminated strings).
+Hidden Character Handling: Escapes problematic characters like line breaks (\n).
