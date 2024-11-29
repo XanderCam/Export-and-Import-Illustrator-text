@@ -13,7 +13,7 @@ This contributor does not take any responsibility for any unwanted or unforseen 
 use of this script. Feel free to tweak it or make your own version of it.
 
 Place the file in your Adobe Illustrator Scripts folder.
-Usually "C:\Program Files\Adobe\Adobe Illustrator 2020\Presets\en_US\Scripts"
+Usually "C:\Program Files\Adobe\Adobe Illustrator[version]\Presets\en_US\Scripts"
 
 Script Explanation
 JSON Compatibility: Adds JSON support if unavailable.
