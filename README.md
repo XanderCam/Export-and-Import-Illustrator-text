@@ -1,4 +1,4 @@
-# Export-and-Import-Illustrator-text
+# Export and Import text from Adobe Illustrator
 A script for importing and exporting text in an Illustrator document using JSON format. To ease translating or other external need to edit text.
 
 The script will search for text in an Adobe Illustrator document and export it to JSON format.
