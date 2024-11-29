@@ -15,6 +15,10 @@ use of this script. Feel free to tweak it or make your own version of it.
 Place the file in your Adobe Illustrator Scripts folder.
 Usually "C:\Program Files\Adobe\Adobe Illustrator[version]\Presets\en_US\Scripts"
 
+To use the script, restart Illustrator and open a document.
+Select File -> Scripts -> export_import-text_illustrator
+Click YES to Export and NO to import
+
 Script Explanation
 JSON Compatibility: Adds JSON support if unavailable.
 
